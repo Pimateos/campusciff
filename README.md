@@ -82,11 +82,14 @@ Despues he sincronizado y no aparecen.
 **1.Añadir un fichero 2.txt en la rama v0.2**
     touch 2.txt
 
-##2.13 CREAR RAMA REMOTA V0.2
+
+##1.13 CREAR RAMA REMOTA V0.2
+>>>>>>> v0.2
 **1.Subir los cambios al repositorio remoto**
     git add .
     git commit -m "2.txt añadido"
 	git push
+<<<<<<< HEAD
 
 ##2.14 MERGE DIRECTO
 **1.Posicionarse en la rama master**
