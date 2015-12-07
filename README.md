@@ -72,3 +72,10 @@ Despues he sincronizado y no aparecen.
     git push --tag origin master
 ![Etiqueta](etiquetas.png)
 
+##2.11 CREAR UNA RAMA V0.2
+**1.Crear una rama v0.2**
+    git branch v0.2
+**2.Posiciona tu carpeta de trabajo en esta rama.**    
+    git checkout v0.2
+
+
