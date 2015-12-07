@@ -72,3 +72,25 @@ Despues he sincronizado y no aparecen.
     git push --tag origin master
 ![Etiqueta](etiquetas.png)
 
+##2.11 CREAR UNA RAMA V0.2
+**1.Crear una rama v0.2**
+    git branch v0.2
+**2.Posiciona tu carpeta de trabajo en esta rama.**    
+    git checkout v0.2
+
+##2.12 AÑADIR FICHERO 2.TXT
+**1.Añadir un fichero 2.txt en la rama v0.2**
+    touch 2.txt
+
+##2.13 CREAR RAMA REMOTA V0.2
+**1.Subir los cambios al repositorio remoto**
+    git add .
+    git commit -m "2.txt añadido"
+	git push
+
+##2.14 MERGE DIRECTO
+**1.Posicionarse en la rama master**
+    git checkout master
+
+**2.Hacer un merge de la rama v0.2 en la rama master**
+    git merge v0.2 -m "Merge de la rama v0.2 a master"
