@@ -78,4 +78,12 @@ Despues he sincronizado y no aparecen.
 **2.Posiciona tu carpeta de trabajo en esta rama.**    
     git checkout v0.2
 
+##2.12 AÑADIR FICHERO 2.TXT
+**1.Añadir un fichero 2.txt en la rama v0.2**
+    touch 2.txt
 
+##1.13 CREAR RAMA REMOTA V0.2
+**1.Subir los cambios al repositorio remoto**
+    git add .
+    git commit -m "2.txt añadido"
+	git push
