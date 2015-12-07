@@ -9,7 +9,8 @@
     cd campusciff_practica
     git init
 
-![crear repositorio](../campusciff_practica.png)
+
+![crear_repositorio_github](creacion_repositorio.png)
 
 ##2.2 REPOSITORIO CAMPUSCIFF(II)
 **2. Clonar vuestro repositorio en local**
