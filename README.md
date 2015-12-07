@@ -16,7 +16,7 @@
 **2. Clonar vuestro repositorio en local**
 
     git clone git@github.com:Pimateos/campusciff_practica.git
-![clonar repositorio](../Clone_directorio.png)
+![clonar repositorio](../git_clone_remoto_local.png)
 
 
 ##2.3 README
