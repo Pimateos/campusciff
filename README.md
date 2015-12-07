@@ -101,12 +101,12 @@ Despues he sincronizado y no aparecen.
 
 ##2.15 MERGE CON CONFLICTO(I)
 **1.En la rama master poner Hola en el fichero 1.txt y hacer commit**
-    vi 1.txt
-	git add .
-	git commit -m '1.txt Hola'
+        vi 1.txt
+    	git add .
+    	git commit -m '1.txt Hola'
 
 **2.Posicionarse en la rama v0.2 y poner Adios en el fichero "1.txt" y hacer commit**
     git checkout v0.2
-	vi 1.txt
-	git add .
-	git commit -m '1.txt Adios'
+    	vi 1.txt
+    	git add .
+    	git commit -m '1.txt Adios'
