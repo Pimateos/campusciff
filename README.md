@@ -15,7 +15,7 @@
 ##2.2 REPOSITORIO CAMPUSCIFF(II)
 **2. Clonar vuestro repositorio en local**
 
-    git clone git@github.com:Pimateos/campusciff.git
+    git clone git@github.com:Pimateos/campusciff_practica.git
 ![clonar repositorio](../Clone_directorio.png)
 
 
