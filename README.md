@@ -33,4 +33,11 @@ necesarias.
 ##2.4 COMMIT INICIAL
 **1.Añadir al README.md los comandos utilizados hasta ahora y hacer un commit inicial con el mensaje commit inicial**
 
+Ver imagen inicial
+
+
+##2.5 PUSH INICIAL
+**1.Subir los cambios al repositorio remoto**
+
+Ver los pasos anteriores
 
