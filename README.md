@@ -41,3 +41,24 @@ Ver imagen inicial
 
 Ver los pasos anteriores
 
+##2.6 IGNORAR ARCHIVOS(I)
+**1.Crear en el repositorio local un fichero llamado privado.txt**
+
+    touch privado.txt
+**2.Crear en el repositorio local una carpeta llamada privada**
+    mkdir privada
+
+##2.7 IGNORAR ARCHIVOS(II)
+**1.Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git**
+
+    vi .gitignore
+
+He añadido privado.txt y privada en otra linea
+Despues he sincronizado y no aparecen.
+
+##2.8 AÑADIR FICHERO 1.TXT
+**1.Añadir fichero 1.txt al repositorio local**
+    touch 1.txt
+    git add .
+	git commit -m "1.txt Añadido"
+
