@@ -60,5 +60,15 @@ Despues he sincronizado y no aparecen.
 **1.Añadir fichero 1.txt al repositorio local**
     touch 1.txt
     git add .
-	git commit -m "1.txt Añadido"
+	git commit -m "1.txt añadido"
+	git push
+
+##2.9 CREAR EL TAG V0.1
+**1.Crear un tag v0.1**
+    git tag -a v0.1 -m "Crear el tag v0.1"
+
+##2.10 SUBIR EL TAG V0.1
+**1.Subir los cambios al repositorio remoto**
+    git push --tag origin master
+![Etiqueta](etiquetas.png)
 
