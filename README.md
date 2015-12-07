@@ -97,3 +97,7 @@ Despues he sincronizado y no aparecen.
 
 **2.Hacer un merge de la rama v0.2 en la rama master**
     git merge v0.2 -m "Merge de la rama v0.2 a master"
+![Merge](merge.png)
+
+##2.15 MERGE CON CONFLICTO(I)
+**1.En la rama master poner Hola en el fichero 1.txt y hacer commit**
