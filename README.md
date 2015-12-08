@@ -155,13 +155,37 @@ Despues he sincronizado y no aparecen.
 #2.21 LISTADO DE CAMBIOS
 **1.Listar los distintos commits con sus ramas y sus tags**
 
-    git log --decorate
+    git log --oneline --decorate --all
 
 ##2.22 CUENTA DE GITHUB
 **1.Poner una foto en vuestro perfil de GitHub**
-![koala](koala.png)
+![koala](perfil_foto.png)
 
 **2.Poner el doble factor de autenticacion en vuestra cuenta de GitHub**
+![Doble Factor](doble_factor.png)
+
+
 
 **3.Añadir(si no lo habeis hecho ya)la clave publica**
+
+
+#.#2.23 USO SOCIAL DE GITHUB
+**1.Preguntar los nombres de usuario de GitHub de los compañeros de clase, buscalos y sigueles**
+![Following](Following.png)
+
+**2.Seguir los repositorios campusciff del resto de tus compañeros**
+![Follow_repo](Follow_repo.png)
+**3.Añadir una estrella a los repositorios campusciff del resto de tus compañeros**
+![Starts](Starts.png)
+
+##2.24 CREAR UNA TABLA
+**1.Crear una tabla de este estilo en el fichero README.md con la informacion de varios de tus compañeros de clase**
+
+**Nombre**	       |		**GitHub**
+-------------------|-----------------------------------------------------
+Cristobal Rodriguez|	https://github.com/crisrodfra/campusciff.git
+Julian Gomez       |	https://github.com/CIFFjuliangomez/campusciff.git
+Amalia Suarez	   |https://github.com/asuarezg/campusciff.git
+
+
 
