@@ -203,4 +203,15 @@ administradores**
 ![admons](admons.png)
 ![colaboradores](colaboradores.png)
 
+##2.28 CREAR UN INDEX.HTML
+**1.Crear un index.html que se pueda ver como una pagina web en la organizacion**
 
+##2.29 CREAR PULL-REQUESTS##
+**1.Hacer 2 forks de 2 repositorios campusciffnombredeusuariodegithub.github.io de 2 organizaciones de las que no seais ni administradores ni colaboradores**
+
+**2.Crearos una rama en cada fork**
+**3.En cada rama modificar el fichero index.html añadiendo vuestro nombre**
+**4.En cada rama hacer un pullrequest**
+
+##2.30 GESTIONAR PULLREQUEST##
+**Aceptar los pull request que lleguen a los repositorios de tu organizacion**
