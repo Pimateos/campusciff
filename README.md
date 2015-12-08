@@ -203,6 +203,13 @@ administradores**
 ![admons](admons.png)
 ![colaboradores](colaboradores.png)
 
+
+----------
+> El repositorio desde la pagina web ha sido renombrado campusciff_practica a campusciff y borrado el repositorio campusciff existente previamente desde los setting de los repositorios
+> 
+
+----------
+
 ##2.28 CREAR UN INDEX.HTML
 **1.Crear un index.html que se pueda ver como una pagina web en la organizacion**
 ![pagina_organizacion](pagina_organizacion.png)
