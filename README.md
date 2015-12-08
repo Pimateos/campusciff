@@ -188,4 +188,19 @@ Julian Gomez       |	https://github.com/CIFFjuliangomez/campusciff.git
 Amalia Suarez	   |https://github.com/asuarezg/campusciff.git
 
 
+##2.25 COLABORADORES 2.27 CREAR EQUIPOS
+**1.Poner a github.com/asanzdiego como colaborador del repositorio campusciff**
+![colaborador](colaborador.png)
+**2.Crear una organizacion llamada campusciff-pimateos**
+
+**3. Crear dos equipos en la organizacion campusciff-pimateos, uno llamado administradores con mas permisos y otro colaboradores con menos permisos**
+
+**4.Meter a y a 2 de vuestros
+compañeros de clase en el equipo
+administradores**
+
+![Equipos_admon_des](equipos_admon_des.png)
+![admons](admons.png)
+![colaboradores](colaboradores.png)
+
 
