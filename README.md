@@ -219,6 +219,7 @@ administradores**
 **3.En cada rama modificar el fichero index.html añadiendo vuestro nombre**
 **4.En cada rama hacer un pullrequest**
 ![Rama_fork_pull](fork.png)
-
+![Pull Request](pull_request.png)
 ##2.30 GESTIONAR PULLREQUEST##
 **Aceptar los pull request que lleguen a los repositorios de tu organizacion**
+![Aceptar_pull](aceptar_pull.png)
